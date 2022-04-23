@@ -15,7 +15,7 @@ const IndexPage = () => (
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="Sammy the Shark, an adorable cartoon shark and DigitalOcean's mascot"
+      alt="Sammy the Shark, an adorable cartoon shark and DigitalOcean"
       style={{ marginBottom: `1.45rem` }}
     />
     <p>

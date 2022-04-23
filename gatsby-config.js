@@ -4,6 +4,7 @@ module.exports = {
     description: `A tutorial that goes over Gatsby development`,
     author: `@digitalocean`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    keywords: `whales, marine life, trip, recreation`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
