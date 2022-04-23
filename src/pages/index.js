@@ -8,15 +8,14 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>Hello Shoppers, we are open for business!</h1>
+    <p>We sell fresh fruit.</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/small-profile.jpeg"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
+      alt="Sammy the Shark, an adorable cartoon shark and DigitalOcean's mascot"
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
